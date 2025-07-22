@@ -1,8 +1,11 @@
 # Elden Ring Gmail Death ⚔️
 
-[🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+
+![Demo](https://iimg.su/s/22/Ew1fJNV53MwhzFKSvYXgy0YeabFolhLjJfeq5fxQ.png)
 
 ---
+[🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+
 
 ## English
 
