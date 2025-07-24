@@ -9,11 +9,11 @@
 
 ## English
 
-🎮 Transform Gmail with a Tampermonkey script that adds the legendary "YOU DIED" effect from the Elden Ring/Dark Souls series.
+🎮 Transform Gmail with a Tampermonkey script that adds the legendary "YOU DIED" effect from the Elden Ring/Dark Souls series when sending an email!
 
 ### ✨ Features
 
-- **Authentic "YOU DIED" overlay** with classic red text and font
+- **Authentic overlay of "YOU DIED"** when sending an email
 - **Original death sound** from the game  
 - **Smooth fade-in/fade-out animations**
 - **Blurred background effect**
@@ -63,11 +63,11 @@ The script monitors Gmail for email send notifications and triggers the "YOU DIE
 
 ## Русский
 
-🎮 Преобразите Gmail с помощью скрипта Tampermonkey, который добавляет легендарный эффект "YOU DIED" из серии Elden Ring/Dark Souls.
+🎮 Преобразите Gmail с помощью скрипта Tampermonkey, который добавляет легендарный эффект "YOU DIED" из серии Elden Ring/Dark Souls при отправке письма!
 
 ### ✨ Возможности
 
-- **Аутентичное наложение "YOU DIED"** с классическим красным текстом и шрифтом
+- **Аутентичное наложение "YOU DIED"** при отрпавке письма
 - **Оригинальный звук смерти** из игры  
 - **Плавные анимации появления/исчезновения**
 - **Эффект размытого фона**
